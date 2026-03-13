@@ -1,0 +1,6 @@
+name: SKAntiBot
+version: 1.0
+main: saki4.skantibot.SKAntiBot
+api-version: 1.16
+authors: [SkyKnock dev]
+website: https://t.me/skyknockdev

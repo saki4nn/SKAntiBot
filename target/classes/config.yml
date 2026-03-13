@@ -1,0 +1,22 @@
+time: 90
+click: 3
+
+# Доступные цвета: PINK, BLUE, RED, GREEN, YELLOW, PURPLE, WHITE
+bosscolor: RED
+bossbar: "&fУ тебя осталось &6&n%times%&f сек."
+
+messages:
+  kick_wrong: "&cВы выбрали не правильно!"
+  kick_timeout: "&cВы не успели пройти проверку. Время вышло!"
+  gui_title: "&8Выбери: &6&n%item%"
+items:
+  DIAMOND_HELMET: "Aᴧʍa3ныЙ ɯᴧᴇМ"
+  DIAMOND_CHESTPLATE: "ᴀᴧMᴀ3ный HᴀᴦᴩУдниК"
+  DIAMOND_LEGGINGS: "Аᴧʍᴀ3Hыᴇ ᴨон0Жи"
+  DIAMOND_BOOTS: "Аᴧʍᴀ3ныE б0TиHᴋи"
+  DIAMOND_SWORD: "Aᴧʍᴀ3Hый ʍEч"
+  DIAMOND_PICKAXE: "ᴀᴧMᴀ3Hᴀя kиpKᴀ"
+  DIAMOND_AXE: "ᴀᴧʍa3Hый ᴛ0ᴨоᴩ"
+  DIAMOND_SHOVEL: "AᴧMᴀ3нАя Лоᴨаᴛᴀ"
+  DIAMOND_BLOCK: "АлMa3Hый бл0к"
+  DIAMOND: "АлMa3"
